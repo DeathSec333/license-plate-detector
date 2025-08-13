@@ -1,0 +1,28 @@
+[
+  {
+    "plate_number": 1,
+    "text": "ABC123",
+    "method": "Edge Detection",
+    "confidence": 0.3644465488215488,
+    "bbox": [
+      201,
+      101,
+      198,
+      48
+    ],
+    "timestamp": "2025-08-13T13:28:12.786375"
+  },
+  {
+    "plate_number": 2,
+    "text": "ABC123",
+    "method": "Edge Detection",
+    "confidence": 0.3644465488215488,
+    "bbox": [
+      201,
+      101,
+      198,
+      48
+    ],
+    "timestamp": "2025-08-13T13:28:13.143758"
+  }
+]
